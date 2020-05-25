@@ -1,0 +1,14 @@
+P1 Strike
+P2 Strike
+P1 Multi_Strike
+P2 Strike
+P1 Strike
+P2 Strike
+P1 Miss
+P2 Miss
+P1 Miss
+P2 Miss
+P1 Miss
+P2 Strike
+P1 Strike
+P2 Red_Strike
